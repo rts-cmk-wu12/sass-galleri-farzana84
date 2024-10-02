@@ -1,0 +1,19 @@
+@import "partials/variables";
+@import "partials/mixins";
+@import "partials/base";
+@import "partials/layout";
+@import "partials/components";
+
+/*@media (min-width: 768px) {
+    .gallery {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+}
+*/
+@media (min-width: 1024px) {
+    .gallery {
+        grid-template-columns: repeat(4, 1fr);
+        grid-auto-flow: row;
+    }
+}
+
