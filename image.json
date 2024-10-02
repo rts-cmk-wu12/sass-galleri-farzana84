@@ -1,0 +1,75 @@
+{
+    "images": [
+      {
+        "name": "image1.jpg",
+        "source": "local",
+        "category": "lifestyle"
+      },
+      {
+        "name": "image2.jpg",
+        "source": "local",
+        "category": "food"
+      },
+      {
+        "name": "image3.jpg",
+        "source": "local",
+        "category": "home"
+      },
+      {
+        "name": "image4.jpg",
+        "source": "local",
+        "category": "travel"
+      },
+      {
+        "name": "image5.jpg",
+        "source": "local",
+        "category": "lifestyle"
+      },
+      {
+        "name": "image6.jpg",
+        "source": "local",
+        "category": "food"
+      },
+      {
+        "name": "image7.jpg",
+        "source": "local",
+        "category": "home"
+      },
+      {
+        "name": "image8.jpg",
+        "source": "local",
+        "category": "travel"
+      },
+      {
+        "name": "image9.jpg",
+        "source": "local",
+        "category": "lifestyle"
+      },
+      {
+        "name": "image1.jpg",
+        "source": "local",
+        "category": "food"
+      },
+      {
+        "name": "image2.jpg",
+        "source": "local",
+        "category": "home"
+      },
+      {
+        "name": "image3.jpg",
+        "source": "local",
+        "category": "travel"
+      },
+      {
+        "name": "image4.jpg",
+        "source": "local",
+        "category": "lifestyle"
+      },
+      {
+        "name": "image5.jpg",
+        "source": "local",
+        "category": "food"
+      }
+    ]
+  }
+  
